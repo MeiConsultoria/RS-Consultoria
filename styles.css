@@ -163,7 +163,7 @@ body {
 }
 
 .btn-primary {
-  background: transparent;
+  background-color: #FF6600;
   color:#FF6600;
   border: 2px solid #FF6600;
 }
